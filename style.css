@@ -1,0 +1,186 @@
+.main{
+    background-image:url(https://s7ap1.scene7.com/is/image/tatamotors/camo-banner-desktop?$BA-1920-925-D$&fit=crop&fmt=webp-alpha) ;
+    width: 100%;
+    height: 800px;
+    background-size: cover;
+    object-fit: fill;
+}
+.para{
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 400px;
+    height: 250px;
+    float: right;
+    padding: 40px;
+    margin-top:450px;
+    margin-right: 30px;
+}
+p{
+ font-family: sans-serif;
+ color: white;
+ font-size: 20px;
+}
+h1{
+ color: white;
+ font-weight: bolder;
+ font-size: 60px;
+}
+p b{
+    font-size: 40px;
+}
+.div1{
+     
+     display: inline-block;
+     width: 400px;
+     height: 200px;
+     padding-top: 110px;
+     margin-left: 200px;
+     float: inline-start;
+     margin-right: 30px;
+   
+}
+.div11{
+      display: inline-block;
+      width: 400px;
+      height: auto;
+
+}
+.img1{
+   width: 700px;
+   height: 600px;
+   margin: 80px;
+   margin-bottom: 0px;
+   padding: 30px;
+   background-color: rgb(185, 165, 147);
+}
+h2{
+ color: black;
+ font-size: 40px;
+
+}
+.para1{
+      color: black;
+}
+.div2{
+       display: inline-block;
+}
+.div22{
+        display: inline-block;
+}
+.img2{
+       width: 600px;
+       height: 400px;
+       margin-left: 110px;
+}
+.img22{
+    width: 600px;
+    height: 400px;
+}
+.div33{
+     
+    display: inline-block;
+    width: 400px;
+    height: 200px;
+    padding-top: 110px;
+    margin-left: 200px;
+    float: inline-start;
+    margin-right: 30px;
+}
+.div3{
+     display: inline-block;
+}
+.img3{
+    width: 600px;
+    height: 600px;
+    margin: 80px;
+    margin-bottom: 0px;
+    padding: 30px;
+    background-color: #7b7bef;
+ }
+ .para2{
+         color: black;
+ }
+ .h11{
+       color: black;
+ }
+ .div44{
+        
+        display: inline-block;
+ }
+ .div4{
+        
+    display: inline-block;
+}
+.img4{
+       width: 600px;
+       height: 400px;
+       margin-left: 110px;
+}
+.img44{
+    width: 600px;
+    height: 400px;
+   
+}
+.div55{
+    display: inline-block;
+    width: 400px;
+    height: 400px;
+    padding-top: 110px;
+    margin-left: 200px;
+    float: inline-start;
+    margin-right: 30px;
+  
+       
+}
+.div5{
+
+    display: inline-block;
+}
+
+.h22{
+    color: black;
+}
+.para3{
+        color: black;
+}
+
+.div6{
+    display: inline-block;
+}
+.div66{
+    display: inline-block;
+}
+.img5{
+    width: 600px;
+    height: 600px;
+    margin: 80px;
+    margin-bottom: 0px;
+    padding: 30px;
+    background-color: #3636c1; 
+}
+.img6{
+
+    width: 600px;
+    height: 400px;
+    margin-left: 110px;
+
+}
+.img66{
+    width: 600px;
+    height: 400px;
+}
+
+footer{
+         width: 100%;
+         height: 400px;
+         background-color: rgb(17, 17, 17);
+         
+}
+.para4{
+        color: white;
+        padding-top: 130px;
+        padding-left: 220px;
+        padding-right: 30px;
+        font-size: 25px;
+        font-weight: bolder;
+       
+}
